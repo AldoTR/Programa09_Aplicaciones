@@ -1,4 +1,4 @@
-package org.uv.Programa09.demo;
+package org.uv;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
