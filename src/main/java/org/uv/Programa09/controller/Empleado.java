@@ -1,4 +1,4 @@
-package org.uv.controller;
+package org.uv.Programa09.controller;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
