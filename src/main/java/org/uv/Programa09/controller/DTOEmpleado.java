@@ -1,4 +1,4 @@
-package org.uv.controller;
+package org.uv.Programa09.controller;
 
 public class DTOEmpleado {
     private long clave;
